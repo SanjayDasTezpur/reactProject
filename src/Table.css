@@ -1,0 +1,25 @@
+#students {
+  text-align: center;
+  border: 2px solid #ddd;
+  border-collapse: collapse;
+  width: 100%;
+}
+#students th, #students td{
+  text-align: center;
+  border: 2px solid #ddd;
+  padding: 8px;
+}
+#details {
+  text-align: center;
+  border: 2px solid #ddd;
+  border-collapse: collapse;
+  width: 100%;
+}
+ #details td{
+  text-align: left;
+  border: 2px solid #ddd;
+  padding: 10px;
+}
+.tdright{
+  text-align: right;
+}
